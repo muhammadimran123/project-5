@@ -1,0 +1,335 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.nav-bar{
+	width: 99.9%;
+	height: 90px;
+	background-color: grey;
+
+
+
+}
+.nav-bar h2{
+float: left;
+margin-top: 30px;
+margin-left: 60px;
+color: lightgray;
+
+
+}
+
+.nav-bar ul{
+	float: right;
+}
+
+.nav-bar ul li{
+	margin: 30px;
+	color: lightgray;
+	float: left;
+
+}
+.img{
+	height: 100vh;
+	width: 100%;
+	text-align: center;
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("background-01.JPG");
+	border: 2px solid black;
+	background-size: 100% 100%;
+}
+.img h3{
+	margin-right: 50vh;
+	margin-top: 190px;
+	
+    color: white;
+}
+.img h1{
+	margin-right:30vh;
+	margin-top: 30px;
+	
+    color: white;
+}
+.img h5{
+	margin-right:30vh;
+	margin-top: 60px;
+	
+    color: white;
+}
+.btn{
+	width: 120px;
+	height: 30px;
+	position: relative;
+	right: 250px;
+	top: 70px;
+	background-color: darkorange;
+	
+
+}
+
+.btn-1{
+	width: 120px;
+	height: 30px;
+	background-color: transparent;
+	color: white;
+	top: 70px;
+	position: relative;
+	right: 240px;
+
+}
+.w2{
+	width: 100%;
+	height: 700px;
+	background-color: dimgray;
+	padding: 1px;
+}
+.w2 h2{
+	color: white;
+	margin-top:40px;
+    text-align: center;
+}
+.w2 h5{
+	color: white;
+	bottom: -190px;
+	 text-align: center;
+}
+.icons{
+	width: 300px;
+    height: 200px;
+   
+    float: left;
+    margin-left:100px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.icons i{
+	font-size: 30px;
+	border:1px solid red;
+	padding: 4%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.icons h1{
+	position: absolute;
+	margin-left: 80px;
+	top: 10px;
+	padding: 1px;
+}
+.icons p{
+	position: absolute;
+	margin-left: 80px;
+	top: 50px;
+}
+.icons h2{
+	position: absolute;
+	margin-left: 80px;
+	top: 100px;
+	color: orange;
+}
+
+
+.forth{
+	text-align: center;
+	width: 100%;
+	height: 110vh;
+	position: relative;
+	
+}
+.in-forth{
+	position: relative;
+	float: left;
+	box-sizing: border-box;
+	
+	width: 400px;
+	height: 250px;
+	margin-left: 200px;
+	margin-top: 20px;
+
+}
+.in-forth img{
+	width: 240px;
+	height: 220px;
+	
+	padding: 4%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.in-forth h3{
+	position: absolute;
+	margin-left: 260px;
+	top: 10px;
+	padding: 1px;
+}
+.in-forth p{
+	position: absolute;
+	margin-left: 230px;
+	top: 60px;
+	padding: 1px;
+}
+.in-forth h4{
+	position: absolute;
+	margin-left: 260px;
+	top: 180px;
+	padding: 1px;
+	color: red;
+
+}
+.hd1{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("background-02.JPG");
+	width: 100%;
+	height: 700px;
+	margin-top: -50px;
+	text-align: center;
+	background-size: 100% 100%;
+	color: white;
+	padding: 1px;
+}
+.hd1 h1 {
+	margin-top: 40px;
+}
+.mn1{
+	width: 1200px;
+	height: 500px;
+	
+	margin-left: 70px;
+	position: relative;
+	margin-top: 50px;
+}
+.m2{
+	width: 250px;
+	height: 470px;
+	
+	float: left;
+	margin-left: 40px;
+}
+.m2 img{
+	width: 100%;
+	height: 250px;
+}
+.m2 h3{
+	margin-top: 50px;
+}
+ .btn-5{
+	width: 150px;
+	height: 30px;
+	margin-top: 40px;
+	background-color: darkorange;
+	margin-left: 10px;
+	text-align: center;
+}
+.GG1{
+	width: 100%;
+	height: 450px;
+	background-color: dimgray;
+	position: relative;
+
+
+}
+.GG2{
+	width: 400px;
+	height: 450px;
+	margin-left: 35px;
+	float: left; 
+}
+.GG2 h1{
+	text-align: center;
+	margin-top: 20px;
+	color: white;
+}
+.GG2 p{
+	
+	margin-top: 30px;
+	color: white;
+}
+.GG3{
+	width: 390px;
+	height: 100px;
+	margin-top: 50px;
+	padding: 1px;
+}
+
+.GG3 i{
+	background-color: darkorange;
+	padding: 5%;
+	font-size: 20px;
+	margin-left: 3px;
+}
+.GG2 i{
+	background-color: ;
+	padding: 5%;
+	font-size: 20px;
+	
+}
+.GG4{
+	width: 390px;
+	height: 450px;
+	margin-top: 0px;
+	padding: 1px;
+}
+.GG4 h2{
+	color: white;
+	margin-top: 30px;
+	text-align: center;
+
+}
+
+.GG4 h3{
+	
+	margin-top: 30px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+.GG5{
+	width: 390px;
+	height: 450px;
+	margin-top: 0px;
+	padding: 1px;
+}
+.GG5 h2{
+	color: white;
+	margin-top: 30px;
+	text-align: center;
+
+}
+
+.GG5 h3{
+	color: orange;
+	margin-top: 30px;
+	
+}
+.GG5 h4{
+	color: white;
+	margin-top: 30px;
+	
+}
+.nav-bar1{
+	width: 100%;
+	height: 80px;
+	background-color: darkorange;
+	color: white;
+
+
+}
+.nav-bar1 ul{
+	float: left;
+	margin-left: 170px;
+}
+.nav-bar1 ul li{
+	float: left;
+	margin-left: 50px;
+	margin-top: 40px;
+	}
